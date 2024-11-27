@@ -1,6 +1,7 @@
 # Homework Assignment for the "Asynchronous Processing" Module | goit-cs-hw-05
 
-Introduction:
+**Introduction**:
+
 In today's world of modern information technology, processing vast amounts of data requires efficient and fast methods. Your task is to write two Python scripts: one applies asynchronous capabilities to sort files into folders, and the other uses the MapReduce paradigm to analyze word frequency in a text and visualize the results.
 
 This homework will help you develop skills in asynchronous programming and effective file processing. By completing this assignment, you will:
